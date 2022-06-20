@@ -865,7 +865,7 @@ exports.source = () =>{
 return`*------「 SOURCE CODE 」 ------*
 
 Base : https://github.com/DikaArdnt/Hisoka-Morou
-Recode : https://youtube.com/playlist?list=PLFCglBzFPHG7vSQaa9S3P8yfla_d9w-2-
+Recode : mau Script dari yang punya github? Chat Wa.me/6285904142544//jangan di ganti
 `
 }
 exports.tos = (ownernomer) => {
@@ -1483,7 +1483,7 @@ exports.tqto = () =>{
 ├ Mhankbarbar
 ├ Nurutomo
 ├ Rashid
-├ ZeeoneOfc
+├ ZeeoneOfc & Luck Xxy
 ├ Penyedia Module
 ╰❒ And All Support
 `
