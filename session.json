@@ -3,47 +3,53 @@
     "noiseKey": {
       "private": {
         "type": "Buffer",
-        "data": "WLuNFWeeelOGeUd+ZaSYkpYbX2IQW/iI5G1WraDtcm8="
+        "data": "oIjt+6cfU89xLrpoRa7MDkPJ+eMETRaLYoyGroWyfm0="
       },
       "public": {
         "type": "Buffer",
-        "data": "Vz8ZDoKZammIoCJ2FY0ACKWTMyXfQERhvgy8tzOXh2I="
+        "data": "7pAd7pDAa7Fx4vI/EW9dk2C6O6oJrgGVcK7NgqEGsQg="
       }
     },
     "signedIdentityKey": {
       "private": {
         "type": "Buffer",
-        "data": "sOECjZYRumEsEFYWMtwJyC8KgoTgMraD3r/s+GxZJUI="
+        "data": "eLYQoH5Zo8A8Bxc8sQvWUW57XEvmYoWmOXYR7Hqu7Ew="
       },
       "public": {
         "type": "Buffer",
-        "data": "9M1c6U0PP/HX4KZvnI+LShy55MW7wTDhQPDgVpaceEE="
+        "data": "7KF9iAufiYE0Hvy1Juu3eHZOEYQcnwmyUM4dRWCz83A="
       }
     },
     "signedPreKey": {
       "keyPair": {
         "private": {
           "type": "Buffer",
-          "data": "0N+ckmDwN6ohDsQYOlSiStgkE1GPJRMNpJM4J/d0k3c="
+          "data": "6A4aMHz3XZyEfrDzOz+kPGE3wyaDOwHgn6EwP0JsG00="
         },
         "public": {
           "type": "Buffer",
-          "data": "jm6sPpOHjfUVEf/QiBTzh57aNPD/09iosCcDEl7RTl4="
+          "data": "mBoZEv+MgLIvXrCUWdTNYYwPnUadnSi5uW7ue8u3KHA="
         }
       },
       "signature": {
         "type": "Buffer",
-        "data": "lS/eP3scQwQlcIPB11Dsayy2c3O7aAP2If57JPWWJcPzEYX5jk+g9Jow7t+Ek2AEcU/mQym4TLpvaK0n9AefiQ=="
+        "data": "N0R/ge2TQdyBng8Vb9r5tcI0fERowrakrwhuI05CSHpqqo5qBdt+3OaRaa9Fo1kzg+RAexGI+qy547F7wZQICw=="
       },
       "keyId": 1
     },
-    "registrationId": 233,
-    "advSecretKey": "0H/YJQaXbX2saCoSHhPdnXAvyqAMphkGioXrbJRyhCQ=",
-    "nextPreKeyId": 31,
-    "firstUnuploadedPreKeyId": 31,
-    "serverHasPreKeys": true,
-    "account": {
-      "details": "CL3n464DEJrGu5UGGAE=",
-      "accountSignatureKey": "AY5IjzFXZidSMFjeBJzgBVmUirmGQDtBN/O666BurRc=",
-      "accountSignature": "5fGGRUl4eEco6hfIjNWt/tjt2+lJBXtRSqNJhT6vkPdvKp3httw6911rtYoZy9T4NdAnjeLUg3lGdXKz93RlAw==",
-      "deviceSignature": "rafFO0g2tHBwe
+    "registrationId": 61,
+    "advSecretKey": "OsB0/Qib7TT7m0B3S45gic1Ke7j0ztFA5+h8HL8yKT4=",
+    "processedHistoryMessages": [
+      {
+        "key": {
+          "remoteJid": "6285725753532@s.whatsapp.net",
+          "fromMe": true,
+          "id": "51414403B0EE58AE9AD2F75D36D079A3"
+        },
+        "timestamp": 1655976725
+      },
+      {
+        "key": {
+          "remoteJid": "6285725753532@s.whatsapp.net",
+          "fromMe": true,
+          "id": "EEF0915DFADD4795
