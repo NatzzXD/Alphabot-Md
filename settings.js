@@ -18,7 +18,7 @@ global.autoread = false // auto read pesan / message
 //global.available = false //status online (online)
 
 // Other
-global.botname = "Natnat-Isuki" //namabot kalian
+global.botname = "Hanami-MD" //namabot kalian
 global.ownername= "NathanXD" //nama kalian
 global.myweb ="https://discord.gg/m4eRAs8Zf2" //bebas asal jan hapus
 global.youtube = "https://youtube.com/channel/UC5jaRLAdMkgxoLf8t9N37dw" //bebas asal jan hapus
@@ -30,7 +30,7 @@ global.ownernomerr = "+6281563953229" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.owner = ['6285904142544','6283824566640','628895082547','62881027973711','6289517158630','6285848171414'] //ganti agar fitur owner bisa di gunakan
+global.owner = ['6281563953229','6283824566640','628895082547','62881027973711','6289517158630','6285848171414'] //ganti agar fitur owner bisa di gunakan
 global.packname = '© Natnat-Itsuki' //sticker wm ubah
 global.author = 'Di Buat Oleh Natnat' //sticker wm ganti nama kalian
 global.sessionName = 'session'
